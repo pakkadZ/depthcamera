@@ -6,3 +6,5 @@ numpy<2.0  # see https://github.com/orbbec/pyorbbecsdk/issues/47
 av # for h264 decoding
 pygame # for visualization
 pynput # for keyboard input
+pillow
+ultralytics

@@ -1,0 +1,6 @@
+C:/Users/pakka/pyorbbecsdk/build/CMakeFiles/pyorbbecsdk.dir
+C:/Users/pakka/pyorbbecsdk/build/CMakeFiles/uninstall.dir
+C:/Users/pakka/pyorbbecsdk/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/pakka/pyorbbecsdk/build/CMakeFiles/INSTALL.dir
+C:/Users/pakka/pyorbbecsdk/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pakka/pyorbbecsdk/build/CMakeFiles/ZERO_CHECK.dir

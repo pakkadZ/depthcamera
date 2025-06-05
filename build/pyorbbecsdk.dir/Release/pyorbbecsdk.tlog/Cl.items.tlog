@@ -1,0 +1,13 @@
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\pyorbbecsdk.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\pyorbbecsdk.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\context.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\context.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\device.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\device.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\error.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\error.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\filter.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\filter.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\frame.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\frame.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\pipeline.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\pipeline.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\properties.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\properties.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\sensor.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\sensor.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\stream_profile.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\stream_profile.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\types.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\types.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\utils.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\utils.obj
+C:\Users\pakka\pyorbbecsdk\src\pyorbbecsdk\record_playback.cpp;C:\Users\pakka\pyorbbecsdk\build\pyorbbecsdk.dir\Release\record_playback.obj

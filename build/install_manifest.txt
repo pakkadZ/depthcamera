@@ -1,0 +1,9 @@
+C:/Users/pakka/pyorbbecsdk/install/lib/pyorbbecsdk.cp310-win_amd64.pyd
+C:/Users/pakka/pyorbbecsdk/install/lib/extensions/depthengine/depthengine.dll
+C:/Users/pakka/pyorbbecsdk/install/lib/extensions/depthengine/depthengine.lib
+C:/Users/pakka/pyorbbecsdk/install/lib/extensions/filters/FilterProcessor.dll
+C:/Users/pakka/pyorbbecsdk/install/lib/extensions/filters/ob_priv_filter.dll
+C:/Users/pakka/pyorbbecsdk/install/lib/extensions/firmwareupdater/firmwareupdater.dll
+C:/Users/pakka/pyorbbecsdk/install/lib/extensions/frameprocessor/ob_frame_processor.dll
+C:/Users/pakka/pyorbbecsdk/install/lib/OrbbecSDK.dll
+C:/Users/pakka/pyorbbecsdk/install/lib/OrbbecSDK.lib
